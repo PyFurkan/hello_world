@@ -38,7 +38,7 @@ class _MyHomePageState extends State<MyHomePage> {
         title: Text(widget.title),
       ),
       body: Center(
-        child: Text("Hello World App!", style: TextStyle(fontSize: 36, fontWeight: FontWeight.w600),),
+        child: Text("Hello World App!", style: TextStyle(fontSize: 40, fontWeight: FontWeight.w600),),
       ),
     );
   }
